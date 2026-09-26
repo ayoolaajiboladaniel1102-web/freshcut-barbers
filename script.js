@@ -16,3 +16,7 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+.service-card.selected {
+    transform: translateY(-8px);
+    border-color: #f5b400;
+}
